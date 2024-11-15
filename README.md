@@ -23,3 +23,10 @@ This project implements a **Retrieval-Augmented Generation (RAG)** model designe
 ├── requirements.txt          # Lists all dependencies.
 ├── single_turn_chatbot.py    # Chatbot for single-question interactions.
 └── vdbb.py                   # Manages vector database storage and retrieval.
+```
+
+## Setup Instructions
+Prerequisites
+Python 3.8 or higher
+API keys for Pinecone and the LLM service provider (e.g., OpenAI, Groq)
+Installation
